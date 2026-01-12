@@ -6,7 +6,8 @@
   "icon": "icon.png",
   "author": "luwojtaszek",
   "categories": [
-    "Productivity"
+    "Productivity",
+    "Developer Tools"
   ],
   "license": "MIT",
   "commands": [

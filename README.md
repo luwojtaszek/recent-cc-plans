@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Screenshot" />
+  <img src="metadata/recent-claude-code-plans-1.png" alt="Screenshot" />
 </p>
 
 ---
