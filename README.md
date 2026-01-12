@@ -1,6 +1,13 @@
-# Recent Claude Code Plans
+<p align="center">
+  <strong>Recent Claude Code Plans</strong><br>
+  A Raycast extension to quickly access your recent Claude Code plan files.
+</p>
 
-A Raycast extension to quickly access your recent Claude Code plan files.
+<p align="center">
+  <img src="docs/screenshot.png" alt="Screenshot" />
+</p>
+
+---
 
 ## Features
 
