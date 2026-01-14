@@ -1,7 +1,6 @@
 import {
   Action,
   ActionPanel,
-  type Application,
   getPreferenceValues,
   Icon,
   List,
@@ -11,13 +10,6 @@ import {
 import { existsSync, readdirSync, readFileSync, statSync } from "fs";
 import { homedir } from "os";
 import { join } from "path";
-
-interface Preferences {
-  directory: string;
-  limit: string;
-  editor?: Application;
-  showPreview: boolean;
-}
 
 function getFileContent(path: string): string {
   try {
